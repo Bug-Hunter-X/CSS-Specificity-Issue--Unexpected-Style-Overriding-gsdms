@@ -1,0 +1,1 @@
+To fix this, we need to increase the specificity of the `.container` class selector. There are several ways to achieve this, one being by adding a more specific selector, such as an ID, or by using the `!important` flag (though this is generally discouraged). The following corrected CSS code uses a more specific selector to ensure the desired styles are applied.
