@@ -1,0 +1,1 @@
+This repository demonstrates a subtle CSS specificity issue. The problem lies in how CSS selectors are prioritized when multiple rules apply to the same element. The 'bug.css' file shows the erroneous code, while 'bugSolution.css' presents the solution. The README provides a more detailed explanation.
